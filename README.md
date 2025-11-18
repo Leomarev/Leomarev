@@ -2,6 +2,9 @@
 
 Hallo, ich studiere Informatik und ich bin ein großer Fan von Rust!
 
+Ich verabscheue PHP
+![PHP](IHatePhP.png)
+
 <!--
 **Leomarev/Leomarev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
