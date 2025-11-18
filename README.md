@@ -1,6 +1,6 @@
 ## Hallöchen 👋
 
-Hallo, ich studiere Informatik und ich bin ein großer Fan von Rust!
+Ich studiere Informatik und ich bin ein großer Fan von Rust!
 
 
 
