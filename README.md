@@ -2,7 +2,11 @@
 
 Hallo, ich studiere Informatik und ich bin ein großer Fan von Rust!
 
-Ich verabscheue PHP
+
+
+
+Ich verabscheue PHP...
+
 ![PHP](IHatePhP.png)
 
 <!--
